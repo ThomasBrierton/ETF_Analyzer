@@ -37,6 +37,24 @@ conda install -c conda-forge voila
 
 ## Analysis via Web Application
 
+The following photos of the charts are shown on the web application via Voilà
 
+![](https://github.com/ThomasBrierton/ETF_Analyzer/blob/main/Photos/Screen%20Shot%202022-02-20%20at%202.00.51%20PM.png)
 
-# ![]()
+![](https://github.com/ThomasBrierton/ETF_Analyzer/blob/main/Photos/Screen%20Shot%202022-02-20%20at%202.00.59%20PM.png)
+
+![](https://github.com/ThomasBrierton/ETF_Analyzer/blob/main/Photos/Screen%20Shot%202022-02-20%20at%202.01.18%20PM.png)
+
+The final cumulative return was analyzed, and was found to be 341.83% over the period analyzed.
+
+---
+
+## Contributors 
+
+Thomas Brierton and UCB
+
+---
+
+## License
+
+MIT
